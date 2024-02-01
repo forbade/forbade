@@ -5,8 +5,10 @@ My name's Justin. <br>
 I like computers. <br>
 Find more of me @ https://forbade.github.io
 
-<details>
-About Me
+<details> 
+
+    <summary>About Me</summary>
+
 ```c++
 class Forbade
 {
@@ -107,4 +109,5 @@ class Technology : Forbade
 
 };
 ```
+
 </details>
