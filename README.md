@@ -10,6 +10,11 @@ Find more of me @ https://forbade.github.io
 <summary>About Me</summary>
 
 ```c++
+#include <iostream>
+#include <array>
+#include <vector>
+#include <map>
+
 class Forbade
 {
     protected:
