@@ -17,7 +17,7 @@ class Forbade
         constexpr static const char*
         name = "Justin";
 
-        constexpr static int
+        static int
         age = 16;
 
         constexpr static const char*
