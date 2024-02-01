@@ -6,9 +6,7 @@ I like computers. <br>
 Find more of me @ https://forbade.github.io
 
 <details>
-
-    <summary>About Me</summary>
-
+About Me
 ```c++
 class Forbade
 {
