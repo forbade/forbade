@@ -5,10 +5,6 @@ My name's Justin. <br>
 I like computers. <br>
 Find more of me @ https://forbade.github.io
 
-<details>
-
-  <summary>About Me</summary>
-
 ```c++
 class Forbade
 {
@@ -18,7 +14,7 @@ class Forbade
         name = "Justin";
 
         constexpr static int
-        age = 17;
+        age = 16;
 
         constexpr static const char*
         gender = "Male";
@@ -109,5 +105,3 @@ class Technology : Forbade
 
 };
 ```
-
-</details>
