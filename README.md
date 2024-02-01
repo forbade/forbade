@@ -9,7 +9,7 @@ Find more of me @ https://forbade.github.io
 
 <summary>About Me</summary>
 
-```c++
+```cpp
 #include <iostream>
 #include <array>
 #include <vector>
