@@ -107,6 +107,12 @@ class Technology : Forbade
             "algorithms & data structures",
         };
 
+        std::vector<std::string>
+        projects = 
+        {
+            ""
+        };
+
 };
 ```     
 
