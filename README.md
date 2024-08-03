@@ -7,7 +7,7 @@ Find more of me @ https://forbade.github.io
 
 <details>
 
-<summary>About Me</summary>
+<summary>About Me</summary> <br>
 
 ```c++
 class Forbade
