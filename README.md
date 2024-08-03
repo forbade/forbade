@@ -1,10 +1,11 @@
 <img align="left" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/40/Gunpowder_JE2_BE2.png/">
 
-## Hello! :wave:
+### Hello :wave:
 My name's Justin. <br>
-I like computers. <br>
+I HATE computers. <br>
 Find more of me @ https://forbade.github.io
 
+<details>
 
 <summary>About Me</summary>
 
@@ -17,13 +18,13 @@ class Forbade
         name = "Justin";
 
         static int
-        age = 16;
+        age = 17;
 
         constexpr static const char*
         gender = "Male";
 
-        constexpr static const std::array<const char*, 2>
-        nationality = {"American", "Filipino"};
+        constexpr static const std::array<const char*, 3>
+        nationality = {"American", "Filipino", "Spanish"};
 
     public:
 
@@ -40,8 +41,7 @@ class Forbade
             "Technology",
             "Mathematics",
             "Literature",
-            "History",
-            "Economics"
+            "History"
         };
 
         std::vector<std::string>
@@ -87,11 +87,13 @@ class Technology : Forbade
             "C/C++",
             "Python",
             "E-Lisp",
+            "Scheme",
             "JavaScript",
             "HTML",
             "CSS",
             "Git",
             "Linux",
+            "WSL",
             "Bash"
         };
 
