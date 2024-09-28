@@ -23,7 +23,7 @@ class Forbade
         constexpr static const char*
         gender = "Male";
 
-        constexpr static const std::array<const char*, 3>
+        constexpr static const std::array<const char*, 2>
         nationality = {"American", "Filipino"};
 
     public:
