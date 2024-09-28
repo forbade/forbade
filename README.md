@@ -65,6 +65,8 @@ class Technology : Forbade
             {"Devoiler", "An NSFW AI inpainting service."}
         };
 
+    public:
+
         std::map<std::string, std::string>
         environment =
         {
@@ -76,8 +78,6 @@ class Technology : Forbade
             {"Communication", "IRC, Discord, Telegram"},
             {"Misc", "SpotX, Invidious, Jellyfin"}
         };
-
-    public:
 
         std::vector<std::string>
         tools =
