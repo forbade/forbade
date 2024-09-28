@@ -24,7 +24,7 @@ class Forbade
         gender = "Male";
 
         constexpr static const std::array<const char*, 3>
-        nationality = {"American", "Filipino", "Spanish"};
+        nationality = {"American", "Filipino"};
 
     public:
 
@@ -48,8 +48,6 @@ class Forbade
         languages =
         {
             "English",
-            "German",
-            "French",
             "Tagalog"
         };
 
@@ -63,7 +61,7 @@ class Technology : Forbade
         privateProjects =
         {
             {"MediaGen", "A social media content creation automation service."},
-            {"Neuheit", "An acceleration service for Discord businesses."},
+            {"AutoPost", "Instagram reposting bot."},
             {"Devoiler", "An NSFW AI inpainting service."}
         };
 
@@ -88,12 +86,10 @@ class Technology : Forbade
             "Python",
             "E-Lisp",
             "Scheme",
-            "JavaScript",
             "HTML",
             "CSS",
             "Git",
             "Linux",
-            "WSL",
             "Bash"
         };
 
@@ -101,11 +97,7 @@ class Technology : Forbade
         forte =
         {
             "networking & security",
-            "sys admin"
-            "automation",
-            "computer architecture"
-            "operating systems",
-            "algorithms & data structures",
+            "automation"
         };
 
         std::vector<std::string>
