@@ -61,8 +61,7 @@ class Technology : Forbade
         privateProjects =
         {
             {"MediaGen", "A social media content creation automation service."},
-            {"AutoPost", "Instagram reposting bot."},
-            {"Devoiler", "An NSFW AI inpainting service."}
+            {"AutoPost", "Instagram reposting bot."}
         };
 
     public:
