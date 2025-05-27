@@ -2,7 +2,7 @@
 
 ### Hello :wave:
 My name's Justin. <br>
-I HATE computers. <br>
+I like computers. <br>
 Find more of me @ https://forbade.github.io
 
 <details>
